@@ -2,6 +2,7 @@ import java.util.*;
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("Testing...");
 		Scanner stdin = new Scanner(System.in);
 		
 		System.out.println("Welcome to the guessing game!");
